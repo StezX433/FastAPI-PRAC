@@ -1,0 +1,15 @@
+
+# Ignore trained ML models
+house_model.joblib
+house_features.joblib
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables
+.env
